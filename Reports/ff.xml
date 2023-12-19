@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.22" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="google search functionality" name="validating the functionality with mobiles as input" time="6.972">
+<system-out><![CDATA[
+Given lauchbrowser and open the url.........................................passed
+When locate the seach bar and send inputs...................................passed
+Then verify.................................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
