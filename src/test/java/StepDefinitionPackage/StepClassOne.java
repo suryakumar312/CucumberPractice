@@ -17,6 +17,10 @@ public void lauchbrowser_and_open_the_url() {
 	driver.navigate().to("https://www.google.com/");
 }
 
+
+
+	
+
 @When("locate the seach bar and send inputs")
 public void locate_the_seach_bar_and_send_inputs() {
 	driver.findElement(By.id("APjFqb")).sendKeys("mobile" + Keys.ENTER);
